@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/image_fragment"
+    tools:context="com.example.android.popularmoviesapppart1.FragmentImage">
+
+
+    <GridView
+        android:id="@+id/poster_grid"
+        android:numColumns="auto_fit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:verticalSpacing="5dp"
+        android:horizontalSpacing="5dp"/>
+</RelativeLayout>

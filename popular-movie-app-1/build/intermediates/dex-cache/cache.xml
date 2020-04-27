@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/odhrandaly/Dev/Android-Dev/PopularMoviesAppPart1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293464afc89e669cff6efa46a3f56ea52af82a12">
+        <dex dex="/Users/odhrandaly/Dev/Android-Dev/PopularMoviesAppPart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab747edf0c67d73c8dbfc8a9fac5e142a4185cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/odhrandaly/Dev/Android-Dev/PopularMoviesAppPart1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/odhrandaly/Dev/Android-Dev/PopularMoviesAppPart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c6a5d58c1b8e93c06dca16f741f6201d746eb196/classes.dex" />
+    </item>
+
+</items>

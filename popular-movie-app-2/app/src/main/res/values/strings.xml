@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movie 2</string>
+    <string name="category">Category</string>
+
+    <!--Main menu-->
+    <string name="favourite">Favourite</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="action_setting">Settings</string>
+
+    <!--Detail activity.xml-->
+    <string name="title">Title</string>
+    <string name="overview">This is a sample overview</string>
+    <string name="rating">8.5/10</string>
+    <string name="duration">120m</string>
+    <string name="year">2017</string>
+    <string name="trailer_title">Trailers</string>
+    <string name="overview_title">Overview</string>
+
+    <!--favorite on/off-->
+    <string name="favouriteOff">off</string>
+    <string name="favouriteOn">on</string>
+
+    <!--preference-->
+    <string name="pref_sort_key">sort</string>
+</resources>

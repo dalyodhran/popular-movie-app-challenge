@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Detail Info-->
+    <dimen name="infoTop">16dp</dimen>
+    <dimen name="infoLeft">32dp</dimen>
+    <dimen name="infoStart">32dp</dimen>
+    <dimen name="infoTextSize">18sp</dimen>
+
+    <!--Detail OverView-->
+    <dimen name="overViewTop">16dp</dimen>
+    <dimen name="overViewLeft">16dp</dimen>
+    <dimen name="overViewStart">16dp</dimen>
+    <dimen name="overViewTextSize">16sp</dimen>
+
+    <!--Detail Title-->
+    <dimen name="TitleTextSize">42sp</dimen>
+
+    <!--detail Line-->
+    <dimen name="margintopbottom">16dp</dimen>
+    <dimen name="lineWidth">365dp</dimen>
+    <dimen name="lineHeight">2dp</dimen>
+
+</resources>
